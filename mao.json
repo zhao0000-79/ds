@@ -153,32 +153,77 @@
       ]
     },
 {
-      "key": "追剧吧",
-      "name": "追剧吧",
-      "type": 1,
-      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        "电影",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "悬疑片",
-        "灾难片",
-        "犯罪片",
-        "其他片",
-        "泰国剧",
-        "伦理片"
+      {
+            "key": "快播云",
+            "name": "快播云",
+            "type": 1,
+            "api": "http://www.kuaibozy.com/api.php/provide/vod/at/json/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "八戒云",
+            "name": "八戒云",
+            "type": 0,
+            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "神马影院",
+            "name": "神马影院",
+            "type": 1,
+            "api": "http://www.zitv.cc/api.php/provide/vod/at/json/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "hg资源",
+            "name": "HG资源",
+            "type": 0,
+            "api": "http://hgyx.vip/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "天堂资源",
+            "name": "天堂资源",
+            "type": 0,
+            "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "淘片直解",
+            "name": "淘片直解",
+            "type": 0,
+            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "星辰资源",
+            "name": "星辰资源",
+            "type": 1,
+            "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
+            "playUrl": ""
+        },
+        {
+            "key": "2A资源",
+            "name": "2A资源",
+            "type": 0,
+            "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "无极影院",
+            "name": "无极影院",
+            "type": 0,
+            "api": "http://wujiys.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
       ]
     },
 {"key":"4K影院","name":"4K影院","type": 0,"api":"http://www.dijiaxia.com/api.php/provide/vod/at/xml","playUrl":""},
