@@ -243,13 +243,6 @@
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","categories":[]}
     ],
 "lives": [{
-		"group": "share",
-		"channels": [{
-			"name": "斗鱼",
-			"urls": ["http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid="]
-		},
-{"name":"中国天气","urls":["http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8"]}
-		]}, {
 		"group": "CCTV",
 		"channels": [{
 			"name": "CCTV-1",
