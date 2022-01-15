@@ -418,30 +418,7 @@
 		}, {
 			"name": "安多卫视",
 			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8","http://183.207.248.71:80/cntv/live1/anduostv/anduostv","http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8"]
-		}, 
-{"
-			
-		
-			"urls": ["http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=747764"]
-		}, {
-			"name": "斗鱼动漫",
-			"urls": ["http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay= "风景区",
-		"channels": [{"name":"全国风景总览","urls":["https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"]},
-{"name":"北京-南宫温泉休闲度假区","urls":["http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001"]},
-
-{"group": "临时源","channels": [{"name":"中视","urls":["http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8"]},
-{"name":"华视","urls":["http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.3/cstv13.m3u8"]},
-{"name":"纬来综合","urls":["http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8"]},
-{"name":"八大第一","urls":["http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8"]},
-{"name":"八大综合","urls":["http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8"]},
-{"name":"三立台湾","urls":["http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8"]},
-{"name":"三立都会","urls":["http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8"]},
-{"name":"卫视中文","urls":["http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8"]},
-{"name":"东森综合","urls":["http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8"]},
-{"name":"东森超视","urls":["http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8"]},
-{"name":"中天综合","urls":["http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8"]},
-{"name":"中天娱乐","urls":["http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8"]},
-
+		}, 		
 ]}],
     "parses": [
         {
