@@ -67,92 +67,6 @@
         "type": 1,
         "api": "http://pandown.pro/mao/tv552.php"
     },
-
- {
-      "key": "滴哩TV",
-      "name": "滴哩TV",
-      "type": 1,
-      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "犯罪片",
-        "纪录片",
-        "悬疑片",
-        "奇幻片"
-      ]
-    },
-              {
-      "key": "0号资源",
-      "name": "0号资源",
-      "type": 1,
-      "api": "http://api.000zy.com/provide/vod/at/xml/",
-      "playUrl": "", 
- "categories": [
-       "综艺",
-   "动漫",
-   "动作片",
-   "喜剧片",
-   "爱情片",
-   "科幻片",
-   "恐怖片",
-   "剧情片",
-   "战争片",
-   "国产剧",
-   "港台剧",
-   "日韩剧",
-   "欧美剧",
-   "泰国剧",
-   "海外剧",
-   "犯罪片",
-   "奇幻片",
-   "悬疑片",
-   "惊悚片",
-   "古装片",
-   "动画片"
- ]
-    },
- {
-      "key": "橘猫影视",
-      "name": "橘猫影视_M",
-      "type": 1,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港剧",
-        "日剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "海外剧",
-        "纪录片"
-      ]
-    },
-{
       {
             "key": "快播云",
             "name": "快播云",
@@ -224,8 +138,6 @@
             "playUrl": "",
             "categories": []
         },
-      ]
-    },
 {"key":"4K影院","name":"4K影院","type": 0,"api":"http://www.dijiaxia.com/api.php/provide/vod/at/xml","playUrl":""},
 {"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://www.omofun.com/api.php/provide/vod/","playUrl":"","categories":["动漫","剧场版","国产","欧美"]},
 {"key":"w7tv","name":"w7tv","type":1,"api":"http://w7tv.com/api.php/provide/vod/","playUrl":"","categories":[]},
