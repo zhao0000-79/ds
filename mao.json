@@ -416,7 +416,7 @@
 			"urls": ["http://coocaa-ynbit-ws.ifengli.com:2381/live/xzws-sd/1.m3u8","http://111.13.42.10/PLTV/88888888/224/3221226428/1.m3u8","http://111.13.42.8/PLTV/88888888/224/3221225900/1.m3u8"]
 		}, {
 			"name": "安多卫视",
-			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8","http://183.207.248.71:80/cntv/live1/anduostv/anduostv","http://39.134.24.24/PLTV/88888888/224/3221225875/index.]}
+			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8"]}
 ]},
     "parses": [
         {
