@@ -302,59 +302,7 @@
 			"name": "CCTV风云音乐",
 			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls"]
 		}, {
-			"name": "CCTVnx时尚",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls", "http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8"]
-		}, {
-			"name": "CCTV兵器科技",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls", "http://124.232.231.246:6610/000000001001/201500000313/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2"]
-		}, {
-			"name": "CCTV世界地理",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231537/index.m3u8"]
-		}, {
-			"name": "CCTV风云足球",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231547/index.m3u8"]
-		}, {
-			"name": "CCTV央视台球",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231616/index.m3u8"]
-		}, {
-			"name": "CCTV高尔夫网球",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8"]
-		}, {
-			"name": "CCTV电视指南",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls"]
-		}, {
-			"name": "CCTV央视文化精品",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231561/index.m3u8"]
-		}, {
-			"name": "CCTV怀旧剧场",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231544/index.m3u8"]
-		}, {
-			"name": "CCTV第一剧场",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls", "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls"]
-		}, {
-			"name": "CCTV风云剧场",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls", "http://117.148.179.160/PLTV/88888888/224/3221231604/index.m3u8"]
-		}, {"name":"CGTN","urls":["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8","http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226980/index.m3u8","http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8"]},
-{"name":"CGTN纪录","urls":["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8","http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8","http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8"]},{
-			"name": "中央新影-发现之旅",
-			"urls": ["http://183.207.248.71/gitv/live1/G_FAXIANZL/G_FAXIANZL"]
-		}, {
-			"name": "中央新影-中学生",
-			"urls": ["http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls"]
-		}, {
-			"name": "中国教育1",
-			"urls": ["http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8","http://39.134.134.82:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u86", "http://117.136.154.98/PLTV/88888888/224/3221225701/index.m3u8","http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8", "http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225905/1.m3u8","http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8", "http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225909/index.m3u8","http://117.148.179.160/PLTV/88888888/224/3221231552/index.m3u8"]
-		}, {
-			"name": "中国教育2",
-			"urls": ["http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8", "http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8"]
-		}, {
-			"name": "中国教育3",
-			"urls": ["http://223.110.246.68/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8", "http://117.148.179.160/PLTV/88888888/224/3221231543/index.m3u8"]
-		}, {
-			"name": "中国教育4",
-			"urls": ["http://117.136.154.98/PLTV/88888888/224/3221225802/index.m3u8", "http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8", "http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/1.m3u8", "http://117.148.179.160/PLTV/88888888/224/3221231613/index.m3u8", "http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8"]
-		}]
-	}, {
+
 		"group": "卫视",
 		"channels": [{
 			"name": "湖南卫视",
